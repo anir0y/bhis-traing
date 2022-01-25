@@ -1,6 +1,7 @@
 #!/bin/bash
 # author : @anir0y
 # learning during class how to block active IP connection
+# testing ? ; run nmap IP -p 8080 and you shall see your IP getting blocked by this script!
 echo "HoneyPot Running"
 
 while [ 1 ]
